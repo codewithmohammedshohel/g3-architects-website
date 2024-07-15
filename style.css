@@ -6,3 +6,38 @@
     font-weight: 400;
     font-style: normal;
   }
+
+  /* shared styls*/
+  .display-flex{
+    display: flex;
+  }
+  
+  /* dark 02 */
+  .text-gray{
+    color: #424242;
+  }
+
+  /* dark 03 */
+  .text-light-gray{
+    color: #727272;
+  }
+
+
+  /* header styles */
+
+
+
+/* navbar related styles */
+.navbar {
+  
+}
+
+.nav-link{
+  text-decoration: none;
+}
+
+.nav-item{
+  list-style: none;
+  margin-right: 30px;
+  font-weight: 500;
+}
